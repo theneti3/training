@@ -43,4 +43,4 @@ Function: moves local Commits to Remote-Repository (e.g. GitHub or Gitlab).
 
     Sync local and remote Repositories.
 
-    visible to other collaborators.
+   
