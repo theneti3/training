@@ -1,4 +1,7 @@
 2026-01-15
 introdution into version control
 introduction into git
-introduction into github / gitlab ...
+introduction into github / gitlab …
+
+2026-01-16
+Repetition of yesterday
